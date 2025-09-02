@@ -1,0 +1,14 @@
+{
+  "name": "map-my-workout",
+  "version": "1.0.0",
+  "description": "mapping application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Adi Kaul",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
